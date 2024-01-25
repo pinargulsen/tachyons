@@ -1,11 +1,7 @@
 # TACHYONS
-
 Functional CSS for humans.
-
 Quickly build and design new UI without writing CSS.
-
 ## Principles
-
 * Everything should be 100% responsive
 * Everything should be readable on any device
 * Everything should be as fast as possible
